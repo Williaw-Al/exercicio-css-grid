@@ -33,10 +33,6 @@
     font-size: 16px;
 }
 
-.propaganda, .videos-extras {
-    width: 270px;
-}
-
 .propaganda {
     grid-area: propaganda;
 }
@@ -47,6 +43,7 @@
 
 .video-extra {
     display: flex;
+    justify-content: space-between;
     margin-top: 15px;
 }
 
