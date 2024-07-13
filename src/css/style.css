@@ -1,0 +1,62 @@
+.pagina {
+    max-width: 900px;
+    display: grid;
+    grid-template-areas:
+        "video-main propaganda"
+        "video-main videos-extras";
+    justify-content: start;
+    grid-template-columns: 1fr 270px;
+    grid-template-rows: 56px 1fr;
+    gap: 20px;
+    padding: 30px;
+}
+
+.video-main {
+    grid-area: video-main;
+}
+
+.titulo {
+    margin-top: 12px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.views {
+    margin-top: 5px;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.descricao-video {
+    margin-top: 5px;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.propaganda, .videos-extras {
+    width: 270px;
+}
+
+.propaganda {
+    grid-area: propaganda;
+}
+
+.videos-extras {
+    grid-area: videos-extras;
+}
+
+.video-extra {
+    display: flex;
+    margin-top: 15px;
+}
+
+.titulo-extra {
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.texto p {
+    margin-top: 5px;
+    font-weight: 300;
+    font-size: 11px;
+}
