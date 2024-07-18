@@ -11,3 +11,8 @@ O exercício também estimulava o olhar aguçado para layout, no momento que ped
 O grid é algo que ainda preciso praticar mais, então partimos pro FrontEnd Mentor e fazemos suas atividades!
 
 Além de começar o JavaScript 👀 !
+
+## 👨🏽‍💻 Mais Exercícios 👨🏽‍💻
+Aqui vai ficar a lista dos outros exercícios:
+- [HTML+CSS básico](https://github.com/Williaw-Al/exercicios-html-css-basico)
+- [CSS Avançado](https://github.com/Williaw-Al/exercicios-css-avancado)
